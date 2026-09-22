@@ -1,0 +1,13 @@
+{
+  "mqtt": {
+    "host": "10.192.100.10",
+    "port": 1883,
+    "topic_prefix": "tapo",
+    "qos": 0,
+    "retain": true,
+    "client_id": "tapo-tomqtt"
+  },
+  "devices": [
+    { "name": "Nobreak - Internet - P110", "host": "10.192.100.92" }
+  ]
+}

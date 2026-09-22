@@ -1,0 +1,16 @@
+# Local environment variables
+.env
+config.json
+
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Logs
+*.log
